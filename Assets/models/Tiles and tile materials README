@@ -1,0 +1,15 @@
+TileStates
+
+0 = Grass
+1 = Dirt
+2 = DirtPlantable
+3 = DirtPlanted
+4 = DirtGrow1
+5 = DirtGrow2
+6 = DirtGrow3
+7 = DirtGrow4
+8 = DirtGrow5
+9 = DirtFlowerRed
+10 = DirtFlowerYellow
+11 = DirtFlowerBlue
+12 = DirtFlowerOrange
